@@ -1,5 +1,5 @@
 ### Hi there 👋
-👱‍♀️ My name is Emily! I joined GitHub in January 2024.
+👱‍♀️ My name is **Emily**! I joined GitHub in *January 2024*.
 
 📚 I'm currently working on MATH 452. 
 
